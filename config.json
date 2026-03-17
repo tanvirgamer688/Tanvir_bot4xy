@@ -1,7 +1,7 @@
 {
-   "author": ["MahMUD"],
-    "facebookAccount": {
-    "email": "mahmudx077@gmail.com",
+   "author": [],"Tanvir"
+    "facebookAccount": "https://www.facebook.com/profile.php?id=61583306184053"
+    "email": "t21848615@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -13,7 +13,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "adminOnly": {
+  "adminOnly":
     "enable": false,
     "ignoreCommand": []
   },
@@ -117,7 +117,7 @@
     "needRoleToUseCmdOnReaction": false
   },
   "logEvents": {
-    "disableAll": false,
+    "disableAll": ,true
     "message": true,
     "message_reaction": true,
     "message_unsend": true,
